@@ -1,0 +1,607 @@
+<document>
+ <item>
+  <Name>13 Feet Under</Name >
+  <Address>5290 S. Dort Hwy</Address >
+  <City>Flint</City >
+  <State>MI</State >
+  <ZIP>48507</ZIP >
+  <Latitude>42.953112</Latitude >
+  <Longitude>-83.654746</Longitude >
+  <Phone>8106944710</Phone >
+  <Web>www.fearfest.net</Web >
+ </item>
+ <item>
+  <Name>A Terror in Townsend Forest</Name >
+  <Address>4770 Waterford Rd</Address >
+  <City>Clarkston</City >
+  <State>MI</State >
+  <ZIP>48346</ZIP >
+  <Latitude>42.7059659</Latitude >
+  <Longitude>-83.39556</Longitude >
+  <Phone>2486230444</Phone >
+  <Web>www.aterrorintownsendforest.com</Web >
+ </item>
+ <item>
+  <Name>Alien Landing at Unger Farm</Name >
+  <Address>2188 West Mount Morris Road</Address >
+  <City>Mount Morris</City >
+  <State>MI</State >
+  <ZIP>48458</ZIP >
+  <Latitude>43.122726</Latitude >
+  <Longitude>-83.721395</Longitude >
+  <Phone>8106870953</Phone >
+  <Web>www.hauntedfield.com</Web >
+ </item>
+ <item>
+  <Name>Amazing Corn Maze</Name >
+  <Address>4143 Hagerman</Address >
+  <City>Leonard</City >
+  <State>MI</State >
+  <ZIP>48367</ZIP >
+  <Latitude>42.862667</Latitude >
+  <Longitude>-83.124383</Longitude >
+  <Phone>2486284014</Phone >
+  <Web>www.amazingcornmaze2001.com</Web >
+ </item>
+ <item>
+  <Name>Blakes Nightnite Spooky Hayride &amp; Haunted Barn</Name >
+  <Address>17485 North Avenue</Address >
+  <City>Armada</City >
+  <State>MI</State >
+  <ZIP>48005</ZIP >
+  <Latitude>42.8502994</Latitude >
+  <Longitude>-82.8848756</Longitude >
+  <Phone>5867849710</Phone >
+  <Web>www.hauntedblakes.com</Web >
+ </item>
+ <item>
+  <Name>Creepy Clown Corn Maze</Name >
+  <Address>6335 Van Dyke</Address >
+  <City>Brown City</City >
+  <State>MI</State >
+  <ZIP>48416</ZIP >
+  <Latitude>43.2200768</Latitude >
+  <Longitude>-83.0777305</Longitude >
+  <Phone>5864196114</Phone >
+  <Web>http://www.creepyclowncornmaze.com</Web >
+ </item>
+ <item>
+  <Name>Dark House the Haunted Mansion</Name >
+  <Address>5977 Van Dyke</Address >
+  <City>Brown City</City >
+  <State>MI</State >
+  <ZIP>48416</ZIP >
+  <Latitude>43.2098795</Latitude >
+  <Longitude>-83.0773538</Longitude >
+  <Phone>8103468600</Phone >
+  <Web></Web >
+ </item>
+ <item>
+  <Name>Deadly Intentions Haunted Attraction</Name >
+  <Address>20900 Dequindre Rd.</Address >
+  <City>Warren</City >
+  <State>MI</State >
+  <ZIP>48038</ZIP >
+  <Latitude>42.4491441</Latitude >
+  <Longitude>-83.0834713</Longitude >
+  <Phone>2487970676</Phone >
+  <Web>www.DeadlyIntentionsHaunt.com</Web >
+ </item>
+ <item>
+  <Name>Dementia at Hampton</Name >
+  <Address>2600 Club Drive</Address >
+  <City>Rochester Hills</City >
+  <State>MI</State >
+  <ZIP>48307</ZIP >
+  <Latitude>42.644503</Latitude >
+  <Longitude>-83.119522</Longitude >
+  <Phone>2487937000</Phone >
+  <Web></Web >
+ </item>
+ <item>
+  <Name>Demonic Demons Haunted House</Name >
+  <Address>14256 Wyoming St</Address >
+  <City>Detroit</City >
+  <State>MI</State >
+  <ZIP>48238</ZIP >
+  <Latitude>42.392566</Latitude >
+  <Longitude>-83.158806</Longitude >
+  <Phone>3132894965</Phone >
+  <Web></Web >
+ </item>
+ <item>
+  <Name>EREBUS</Name >
+  <Address>18 S. Perry St</Address >
+  <City>Pontiac</City >
+  <State>MI</State >
+  <ZIP>48342</ZIP >
+  <Latitude>42.6363971</Latitude >
+  <Longitude>-83.2905284</Longitude >
+  <Phone>2483327884</Phone >
+  <Web>www.hauntedpontiac.com</Web >
+ </item>
+ <item>
+  <Name>Exit 13 Haunted House</Name >
+  <Address>6069 N. Saginaw St</Address >
+  <City>Mount Morris</City >
+  <State>MI</State >
+  <ZIP>48458</ZIP >
+  <Latitude>43.092168</Latitude >
+  <Longitude>-83.695179</Longitude >
+  <Phone>8107870976</Phone >
+  <Web>www.exit13hauntedhouse.com</Web >
+ </item>
+ <item>
+  <Name>Extreme Scream</Name >
+  <Address>4724 Dixie Hwy.</Address >
+  <City>Waterford</City >
+  <State>MI</State >
+  <ZIP>48329</ZIP >
+  <Latitude>42.687645</Latitude >
+  <Longitude>-83.381038</Longitude >
+  <Phone></Phone >
+  <Web></Web >
+ </item>
+ <item>
+  <Name>Fear Farm &amp; Corn Maze</Name >
+  <Address>9391 Lindsey Lane</Address >
+  <City>Casco</City >
+  <State>MI</State >
+  <ZIP>48064</ZIP >
+  <Latitude>42.7667205</Latitude >
+  <Longitude>-82.6887446</Longitude >
+  <Phone>5863659401</Phone >
+  <Web>www.cornfun.com</Web >
+ </item>
+ <item>
+  <Name>Funeral Home</Name >
+  <Address>3880 Inkster Rd</Address >
+  <City>Inkster</City >
+  <State>MI</State >
+  <ZIP>48141</ZIP >
+  <Latitude>42.280609</Latitude >
+  <Longitude>-83.309893</Longitude >
+  <Phone>7349562101</Phone >
+  <Web></Web >
+ </item>
+ <item>
+  <Name>Gruesome Encounters</Name >
+  <Address>1695 S. Ortonville Rd</Address >
+  <City>Ortonville</City >
+  <State>MI</State >
+  <ZIP>48462</ZIP >
+  <Latitude>42.827726</Latitude >
+  <Longitude>-83.442848</Longitude >
+  <Phone>7349562101</Phone >
+  <Web>www.gruesomeencounters.com</Web >
+ </item>
+ <item>
+  <Name>Halloween Spook Train</Name >
+  <Address>7065 Dixie Hwy.</Address >
+  <City>Bridgeport</City >
+  <State>MI</State >
+  <ZIP>48722</ZIP >
+  <Latitude>43.334132</Latitude >
+  <Longitude>-83.8329769</Longitude >
+  <Phone>9897773480</Phone >
+  <Web>www.jvrailroad.com</Web >
+ </item>
+ <item>
+  <Name>Haunted Barn of Imlay City</Name >
+  <Address>622 N. Vandyke Rd.</Address >
+  <City>Imlay City</City >
+  <State>MI</State >
+  <ZIP>48444</ZIP >
+  <Latitude>43.0247496</Latitude >
+  <Longitude>-83.0777153</Longitude >
+  <Phone></Phone >
+  <Web>http://www.hauntedbarnic.com</Web >
+ </item>
+ <item>
+  <Name>Haunted Farm of Terror</Name >
+  <Address>28405 26 Mile Road</Address >
+  <City>New Haven</City >
+  <State>MI</State >
+  <ZIP>48048</ZIP >
+  <Latitude>42.7188187</Latitude >
+  <Longitude>-82.8251781</Longitude >
+  <Phone></Phone >
+  <Web>www.hauntedfarmofterror.com</Web >
+ </item>
+ <item>
+  <Name>Haunted Forest</Name >
+  <Address>489 V. Drive North</Address >
+  <City>Battle Creek</City >
+  <State>MI</State >
+  <ZIP>49017</ZIP >
+  <Latitude>42.4057522</Latitude >
+  <Longitude>-85.2896038</Longitude >
+  <Phone></Phone >
+  <Web></Web >
+ </item>
+ <item>
+  <Name>Haunted Hayride</Name >
+  <Address>6660 Chilson Road</Address >
+  <City>Howell</City >
+  <State>MI</State >
+  <ZIP>48843</ZIP >
+  <Latitude>42.497787</Latitude >
+  <Longitude>-83.8595216</Longitude >
+  <Phone></Phone >
+  <Web>www.BrightonRecRidingStable.com</Web >
+ </item>
+ <item>
+  <Name>Haunted Hollows</Name >
+  <Address>6440 Hix Road</Address >
+  <City>Westland</City >
+  <State>MI</State >
+  <ZIP>48185</ZIP >
+  <Latitude>42.331261</Latitude >
+  <Longitude>-83.416901</Longitude >
+  <Phone></Phone >
+  <Web>www.Haunted-Hallow.com</Web >
+ </item>
+ <item>
+  <Name>Hay Ride from Hell &amp; Zombie Shoot</Name >
+  <Address>619 Pearl Street</Address >
+  <City>Pinckney</City >
+  <State>MI</State >
+  <ZIP>48169</ZIP >
+  <Latitude>42.4642029</Latitude >
+  <Longitude>-83.9422836</Longitude >
+  <Phone></Phone >
+  <Web>www.HayRideFromHELL.com</Web >
+ </item>
+ <item>
+  <Name>Headless Horsemen</Name >
+  <Address>3480 Teggerdine Road</Address >
+  <City>White Lake</City >
+  <State>MI</State >
+  <ZIP>48386</ZIP >
+  <Latitude>42.6879737</Latitude >
+  <Longitude>-83.4899067</Longitude >
+  <Phone></Phone >
+  <Web>www.pontiaclakeridingstable.com</Web >
+ </item>
+ <item>
+  <Name>Heck of a Haunted Barn</Name >
+  <Address>4309 W. Albain Rd</Address >
+  <City>Monroe</City >
+  <State>MI</State >
+  <ZIP>48161</ZIP >
+  <Latitude>41.8964927</Latitude >
+  <Longitude>-83.5336693</Longitude >
+  <Phone>5179374606</Phone >
+  <Web></Web >
+ </item>
+ <item>
+  <Name>Jackons Underworld</Name >
+  <Address>1318 Wilwood Ave.</Address >
+  <City>Jackson</City >
+  <State>MI</State >
+  <ZIP>49202</ZIP >
+  <Latitude>42.2520914</Latitude >
+  <Longitude>-84.4297394</Longitude >
+  <Phone>5177886335</Phone >
+  <Web>www.jxunderworld.com</Web >
+ </item>
+ <item>
+  <Name>Krazy Hildas Barn of Doom</Name >
+  <Address>12758 Jordan Road</Address >
+  <City>Saline</City >
+  <State>MI</State >
+  <ZIP>48176</ZIP >
+  <Latitude>42.0996675</Latitude >
+  <Longitude>-83.7991049</Longitude >
+  <Phone>7345502001</Phone >
+  <Web>www.krazyhildas.com</Web >
+ </item>
+ <item>
+  <Name>Lake Eerie Haunted Hayride</Name >
+  <Address>32481 West Jefferson Avenue</Address >
+  <City>Rockwood</City >
+  <State>MI</State >
+  <ZIP>48173</ZIP >
+  <Latitude>42.0715784</Latitude >
+  <Longitude>-83.2109528</Longitude >
+  <Phone></Phone >
+  <Web>www.bpffu.org</Web >
+ </item>
+ <item>
+  <Name>Massacre Manor</Name >
+  <Address>2324 Biddle Ave</Address >
+  <City>Wyandotte</City >
+  <State>MI</State >
+  <ZIP>48192</ZIP >
+  <Latitude>42.210264</Latitude >
+  <Longitude>-83.149359</Longitude >
+  <Phone></Phone >
+  <Web>www.WyandotteJaycees.com/HH</Web >
+ </item>
+ <item>
+  <Name>Millers Big Red Haunted Hayride</Name >
+  <Address>4900 32 Mile Rd.</Address >
+  <City>Washington</City >
+  <State>MI</State >
+  <ZIP>48095</ZIP >
+  <Latitude>42.8012519</Latitude >
+  <Longitude>-83.0707797</Longitude >
+  <Phone></Phone >
+  <Web>www.millers-bigred.com</Web >
+ </item>
+ <item>
+  <Name>Morrow Road Haunted Trail</Name >
+  <Address>9185 Marsh Road</Address >
+  <City>Clay</City >
+  <State>MI</State >
+  <ZIP>48001</ZIP >
+  <Latitude>42.6335515</Latitude >
+  <Longitude>-82.5450333</Longitude >
+  <Phone></Phone >
+  <Web>www.morrowroad.com</Web >
+ </item>
+ <item>
+  <Name>Night Terrors</Name >
+  <Address>5565 Merritt Road</Address >
+  <City>Ypsilanti</City >
+  <State>MI</State >
+  <ZIP>48197</ZIP >
+  <Latitude>42.1872526</Latitude >
+  <Longitude>-83.64711</Longitude >
+  <Phone>7343909206</Phone >
+  <Web>www.hauntedhousemichigan.com</Web >
+ </item>
+ <item>
+  <Name>Panic at the Pine Stump Hollow</Name >
+  <Address>6310 Gratiot Ave</Address >
+  <City>St. Clair</City >
+  <State>MI</State >
+  <ZIP>48079</ZIP >
+  <Latitude>42.875838</Latitude >
+  <Longitude>-82.5781746</Longitude >
+  <Phone></Phone >
+  <Web>http://panicatpinestumphollow.webstarts.com/</Web >
+ </item>
+ <item>
+  <Name>Past Tense After Dark</Name >
+  <Address>1965 Farnsworth Road</Address >
+  <City>Lapeer</City >
+  <State>MI</State >
+  <ZIP>48446</ZIP >
+  <Latitude>43.0867277</Latitude >
+  <Longitude>-83.2975458</Longitude >
+  <Phone></Phone >
+  <Web>http://www.pasttenseafterdark.com</Web >
+ </item>
+ <item>
+  <Name>Phantom Forest Hayrides</Name >
+  <Address>21803 West River Rd</Address >
+  <City>Grosse Ile</City >
+  <State>MI</State >
+  <ZIP>48138</ZIP >
+  <Latitude>42.150531</Latitude >
+  <Longitude>-83.160235</Longitude >
+  <Phone></Phone >
+  <Web>www.westcroftgardens.com</Web >
+ </item>
+ <item>
+  <Name>Realm of Haunted Minds</Name >
+  <Address>18910 Merriman Rd</Address >
+  <City>Romulus</City >
+  <State>MI</State >
+  <ZIP>48174</ZIP >
+  <Latitude>42.166842</Latitude >
+  <Longitude>-83.3453399</Longitude >
+  <Phone></Phone >
+  <Web></Web >
+ </item>
+ <item>
+  <Name>Saint Lucifiers Haunted Asylum</Name >
+  <Address>5290 S. Dort Hwy</Address >
+  <City>Flint</City >
+  <State>MI</State >
+  <ZIP>48507</ZIP >
+  <Latitude>42.953112</Latitude >
+  <Longitude>-83.654746</Longitude >
+  <Phone>8106944710</Phone >
+  <Web>www.fearfest.net</Web >
+ </item>
+ <item>
+  <Name>Salems Haunted Barn</Name >
+  <Address>5411 Hackman Rd</Address >
+  <City>Capac</City >
+  <State>MI</State >
+  <ZIP>48014</ZIP >
+  <Latitude>43.0538385</Latitude >
+  <Longitude>-82.9000172</Longitude >
+  <Phone>8107513220</Phone >
+  <Web>www.salemshaunts.com</Web >
+ </item>
+ <item>
+  <Name>Scarefest Scream Park</Name >
+  <Address>61288 Gratiot Ave</Address >
+  <City>New Haven</City >
+  <State>MI</State >
+  <ZIP>48048</ZIP >
+  <Latitude>42.751811</Latitude >
+  <Longitude>-82.7706555</Longitude >
+  <Phone></Phone >
+  <Web>www.scarefestscreampark.com</Web >
+ </item>
+ <item>
+  <Name>Shawhaven Haunted Farm</Name >
+  <Address>1826 Rolfe Rd.</Address >
+  <City>Mason</City >
+  <State>MI</State >
+  <ZIP>48854</ZIP >
+  <Latitude>42.5332337</Latitude >
+  <Longitude>-84.4164472</Longitude >
+  <Phone></Phone >
+  <Web></Web >
+ </item>
+ <item>
+  <Name>Slaughted at Sundown</Name >
+  <Address>71800 Romeo Plank Rd.</Address >
+  <City>Armada</City >
+  <State>MI</State >
+  <ZIP>48005</ZIP >
+  <Latitude>42.8257392</Latitude >
+  <Longitude>-82.9633942</Longitude >
+  <Phone></Phone >
+  <Web>www.slaughteredatsundown.net</Web >
+ </item>
+ <item>
+  <Name>Slaughter House &amp; Haunted Corn Maze</Name >
+  <Address>5781 Grand River Avenue</Address >
+  <City>Fowlerville</City >
+  <State>MI</State >
+  <ZIP>48836</ZIP >
+  <Latitude>42.656619</Latitude >
+  <Longitude>-84.0288443</Longitude >
+  <Phone></Phone >
+  <Web>www.slaughterhouseadventure.com</Web >
+ </item>
+ <item>
+  <Name>Spooky Trails Farm</Name >
+  <Address>8266 W. Baldwin</Address >
+  <City>Swartz Creek</City >
+  <State>MI</State >
+  <ZIP>48473</ZIP >
+  <Latitude>42.8838265</Latitude >
+  <Longitude>-83.8357778</Longitude >
+  <Phone>8104073035</Phone >
+  <Web>www.spookytrails.com</Web >
+ </item>
+ <item>
+  <Name>Terrorfied Forest &amp; Manor</Name >
+  <Address>245 Swarthout Road</Address >
+  <City>Pinckney</City >
+  <State>MI</State >
+  <ZIP>48169</ZIP >
+  <Latitude>42.4898653</Latitude >
+  <Longitude>-83.9289009</Longitude >
+  <Phone>7348783737</Phone >
+  <Web>www.terrorfied.com</Web >
+ </item>
+ <item>
+  <Name>The Boneyard</Name >
+  <Address>5010 Green Rd.</Address >
+  <City>Stockbridge</City >
+  <State>MI</State >
+  <ZIP>49285</ZIP >
+  <Latitude>42.439254</Latitude >
+  <Longitude>-84.1632109</Longitude >
+  <Phone></Phone >
+  <Web>www.theboneyard-fx.com</Web >
+ </item>
+ <item>
+  <Name>The Crypt Haunted House</Name >
+  <Address>G4247 S Dort Hwy</Address >
+  <City>Burton</City >
+  <State>MI</State >
+  <ZIP>48529</ZIP >
+  <Latitude>42.9746925</Latitude >
+  <Longitude>-83.6529698</Longitude >
+  <Phone>8107422260</Phone >
+  <Web>http://www.crypthauntedhouse.com/</Web >
+ </item>
+ <item>
+  <Name>The Fear Factory</Name >
+  <Address>237 N. River Rd</Address >
+  <City>Mt. Clemens</City >
+  <State>MI</State >
+  <ZIP>48043</ZIP >
+  <Latitude>42.5981035</Latitude >
+  <Longitude>-82.8633096</Longitude >
+  <Phone>5862162291</Phone >
+  <Web>www.thefearfactory.com</Web >
+ </item>
+ <item>
+  <Name>The Haunted Bus Ride 2</Name >
+  <Address>19832 Woodward Avenue</Address >
+  <City>Detroit</City >
+  <State>MI</State >
+  <ZIP>48203</ZIP >
+  <Latitude>42.4387082</Latitude >
+  <Longitude>-83.1194418</Longitude >
+  <Phone>3132632761</Phone >
+  <Web>www.thehauntedbusride.com</Web >
+ </item>
+ <item>
+  <Name>The Haunted Castle</Name >
+  <Address>32460 Pierce Rd.</Address >
+  <City>Beverly Hills</City >
+  <State>MI</State >
+  <ZIP>48025</ZIP >
+  <Latitude>42.527565</Latitude >
+  <Longitude>-83.212677</Longitude >
+  <Phone></Phone >
+  <Web>www.thehauntedcastle.com</Web >
+ </item>
+ <item>
+  <Name>The Haunted Fountains Walk of Terror</Name >
+  <Address>6060 Maybee Road</Address >
+  <City>Clarkston</City >
+  <State>MI</State >
+  <ZIP>48346</ZIP >
+  <Latitude>42.7205889</Latitude >
+  <Longitude>-83.391276</Longitude >
+  <Phone></Phone >
+  <Web>www.fountainsgolf.com</Web >
+ </item>
+ <item>
+  <Name>The Psycho Path</Name >
+  <Address>23984 Gibraltar Rd.</Address >
+  <City>Flat Rock</City >
+  <State>MI</State >
+  <ZIP>48134</ZIP >
+  <Latitude>42.097848</Latitude >
+  <Longitude>-83.266793</Longitude >
+  <Phone></Phone >
+  <Web></Web >
+ </item>
+ <item>
+  <Name>The Scream Machine</Name >
+  <Address>21207 Eureka Rd.</Address >
+  <City>Taylor</City >
+  <State>MI</State >
+  <ZIP>48180</ZIP >
+  <Latitude>42.198022</Latitude >
+  <Longitude>-83.241858</Longitude >
+  <Phone></Phone >
+  <Web></Web >
+ </item>
+ <item>
+  <Name>Thrill Kill</Name >
+  <Address>1645 Wayne Rd.</Address >
+  <City>Westland</City >
+  <State>MI</State >
+  <ZIP>48185</ZIP >
+  <Latitude>42.3236432</Latitude >
+  <Longitude>-83.3891975</Longitude >
+  <Phone></Phone >
+  <Web>www.westlandhauntedhouse.com</Web >
+ </item>
+ <item>
+  <Name>Tunnel of Terror</Name >
+  <Address>400 Sixth St</Address >
+  <City>Rochester</City >
+  <State>MI</State >
+  <ZIP>48308</ZIP >
+  <Latitude>42.6836024</Latitude >
+  <Longitude>-83.1370579</Longitude >
+  <Phone>2486527777</Phone >
+  <Web>www.rochesterareajaycees.org</Web >
+ </item>
+ <item>
+  <Name>Wicked Hill Scream Park</Name >
+  <Address>11600 South Beyer Road</Address >
+  <City>Birch Run</City >
+  <State>MI</State >
+  <ZIP>48415</ZIP >
+  <Latitude>43.2501736</Latitude >
+  <Longitude>-83.7827775</Longitude >
+  <Phone></Phone >
+  <Web>http://www.wickedhill.com</Web >
+ </item>
+</document>
